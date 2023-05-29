@@ -1,4 +1,4 @@
-<h1 align=center>Lin's Theme <a href="https://linxu.hi-motor.site/" rel="nofollow">Demo</a></h1>
+<h1 align=center>Lin's Theme <a href="https://bennett.hi-motor.site/" rel="nofollow">Demo</a></h1>
 
 <h4 align=center>☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive</h4>
 <br>
